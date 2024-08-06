@@ -1,0 +1,15 @@
+
+
+"WEB PAGE"https://testautomationpractice.blogspot.com/
+"https://www.countries-ofthe-world.com/flags-of-the-world.html"
+" https://books-pwakit.appspot.com/"    # finding shallow elements in selenium link
+
+*what is relative XPATH in selenium automation python?
+
+Relative XPath is a method for locating elements on a web page using their position and relationship to other elements within the HTML structure. It's generally considered more flexible and maintainable than absolute XPath, especially when web page layouts are prone to changes.
+
+*what is absolute XPATH  in selenium automation python?
+
+In Selenium automation, absolute XPath is a method for locating web elements that starts from the root node of the HTML document and traverses down the hierarchy until it reaches the target element
+
+
